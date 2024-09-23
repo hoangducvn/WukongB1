@@ -177,7 +177,7 @@
 		},
 		{
 			"Name": "Wwise",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "CustomHairStrand",
